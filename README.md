@@ -9,8 +9,8 @@ Unfortunately, GitHub does not render the graphs from Plotly, used in the Bitcoi
 ## Team Members
 
 Project developed with the assistance of:
-- Amandeep 
-  - :octocat: Amandeep-Rathee
+- Daniel 
+  - :octocat: danielsqc
 - Fahad 
   - :octocat: fahadahmed5
 - Pratik 
